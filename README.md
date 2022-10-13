@@ -21,3 +21,46 @@
     - Javascript
     - Vue.js
     - Json Server
+
+
+> ## :pencil: Instruções 
+
+ > ### Project setup
+  ```
+    npm install
+  ```
+ > ### Open terminal in VSCode
+  ```
+   CTRL + Shift + '
+  ``` 
+
+ > ### Run Frontend and Compiles and hot-reloads for development
+  ```
+    npm run serve
+  ```
+
+ > ### Compiles and minifies for production
+  ```
+    npm run build
+  ```
+
+ > ### Customize configuration
+   See [Configuration Reference](https://cli.vuejs.org/config/).
+
+ > ### Open other terminal in VSCode
+  ```
+   CTRL + Shift + '
+  ``` 
+
+ > ### Install backend
+  ```
+    npm install json-server
+  ```
+
+<!-- no package.json, colocar dentro de scripts: 
+    "backend": "json-server --watch db/db.json" -->
+
+ > ### Run Backend
+  ```
+   npm run backend
+  ```
