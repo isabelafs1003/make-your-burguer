@@ -17,3 +17,13 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### No CMD para instalar o Backend
+npm install json-server
+
+<!-- no package.json, colocar dentro de scripts: 
+    "backend": "json-server --watch db/db.json" -->
+
+### Run Backend
+npm run backend
