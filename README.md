@@ -1,7 +1,7 @@
 # Make Your Burguer :hamburger:
 
 > ## :chart_with_upwards_trend: Objetivo do Projeto
-    Esse projeto foi constuído através de um curso gratuito de Vue.js no youtube, feito por Matheus Battisti. E tem o propósito de praticar conhecimentos de HTML, CSS e JS, além de simular uma API REST com JSON Server. Afim de entender os conceitos backend, e aprender uma nova ferramenta de desenvolvimento para facilitar a produção, como o Vue.JS e Vue Router.
+   Esse projeto foi constuído através de um curso gratuito de Vue.js no youtube, feito por Matheus Battisti. E tem o propósito de praticar conhecimentos de HTML, CSS e JS, além de simular uma API REST com JSON Server. Afim de entender os conceitos backend, e aprender uma nova ferramenta de desenvolvimento para facilitar a produção, como o Vue.JS e Vue Router.
 
 > ## :scroll: Resumo
 
